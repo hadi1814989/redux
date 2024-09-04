@@ -1,0 +1,8 @@
+.quantity{
+    font-size: 25px;
+    color: rgba(246, 113, 113, 0.968);
+    text-align: center;
+    margin: 5px 0px;
+    /* margin-right: 190px; */
+    display: block;
+}

@@ -1,0 +1,9 @@
+.price {
+    text-align: center;
+    color: #92E410;
+    font-size: 30px;
+    font-weight: 600;
+    margin: 5px 0px;
+    /* margin-right: 212px; */
+    display:block;
+}
